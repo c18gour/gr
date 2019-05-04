@@ -23,6 +23,5 @@ gallery:
 
 ---
 
-{% include_relative cs-google_search.md %}
 
 {% include slides.html %}
