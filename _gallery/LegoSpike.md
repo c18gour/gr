@@ -1,12 +1,14 @@
 ---
 author: xrys@
 title: Lego Spike
-image_url: /images/creativity.jpg
+image_url: /images/LegoSpike.jpg
 caption: 'Το Tux είναι ένας πιγκουίνος και ο επίσημος χαρακτήρας (μασκότ) του πυρήνα του Linux. Ο χαρακτήρας χρησιμοποιείται σε πολλά άλλα προγράμματα Linux και ως γενικό σύμβολο του Linux.'
-license_url: 'https://commons.wikimedia.org/wiki/File:Tux.png'
-license_text: 	The copyright holder of this file allows anyone to use it for any purpose, provided that the copyright holder is properly attributed. Redistribution, derivative work, commercial use, and all other use is permitted.
+license_url: 'https://education.lego.com/en-us/products/lego-education-spike-prime-set/45678'
+license_text: 
 categories:
-  - mascot
+  - definition
 tags:
-  - Linux
+  - Education
+  - Robotics
+  - Entertainment
 ---
