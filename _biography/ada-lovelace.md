@@ -14,8 +14,8 @@ tags:
   - Smalltalk
   - Xerox Alto
 gallery:
-  - image_url: /images/mihani-babage.png
-    caption: "Η αναλυτική μηχανή του Babage"
+  - image_url: /images/mihani-babbage.png
+    caption: "Η αναλυτική μηχανή του Babbage"
   - image_url: /images/notes.jpg
     caption: "Οι διορθώσεις της Ada"
   - image_url: /images/smalltalk.jpg
