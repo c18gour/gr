@@ -2,7 +2,7 @@
 author: xrys@
 title: "Ada Lovelace"
 image_url: /images/ada.jpg
-caption: "Η Ada Lovelace θεωρείται η πρώτη προγραμματίστρια γιατί διόρθωσε και επέκτεινε το έργο του Babage για την αναλυτική μηχανή του"
+caption: "Η Ada Lovelace θεωρείται η πρώτη προγραμματίστρια γιατί διόρθωσε και επέκτεινε το έργο του Babbage για την αναλυτική μηχανή του"
 categories:
   - biography
   - definition
