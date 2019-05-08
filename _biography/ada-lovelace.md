@@ -14,7 +14,7 @@ tags:
   - Luigi Menabrea
   - Μary Somerville
 gallery:
-  - image_url: /images/analytical_engine.png
+  - image_url: /images/analytical_engine.jpg
     caption: "Η αναλυτική μηχανή του Babbage"
   - image_url: /images/notes.jpg
     caption: "Οι διορθώσεις της Ada"
