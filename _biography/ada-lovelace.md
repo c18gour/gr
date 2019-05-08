@@ -7,14 +7,14 @@ categories:
   - biography
   - definition
 tags:
-  - Alan Kay
-  - Ivan Sutherland
-  - Bret Victor
-  - Dynabook
-  - Smalltalk
-  - Xerox Alto
+  - Ada Lovelace
+  - Charles Babbage
+  - Collaboration
+  - Analytical Engine
+  - Luigi Menabrea
+  - Μary Somerville
 gallery:
-  - image_url: /images/mihani-babbage.png
+  - image_url: /images/analytical_engine.png
     caption: "Η αναλυτική μηχανή του Babbage"
   - image_url: /images/notes.jpg
     caption: "Οι διορθώσεις της Ada"
