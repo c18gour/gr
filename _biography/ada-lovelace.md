@@ -17,9 +17,9 @@ gallery:
   - image_url: /images/analytical_engine.jpg
     caption: "Η αναλυτική μηχανή του Babbage"
   - image_url: /images/notes.jpg
-    caption: "Οι διορθώσεις της Ada"
-  - image_url: /images/smalltalk.jpg
-    caption: 'Η αντικειμενοστραφής γλώσσα προγραμματισμού Smalltalk είχε έμφαση σε οντότητες υψηλού επιπέδου και στην διάδραση με τον χρήστη και έτσι διευκόλυνε την κατασκευή και τις δοκιμές του λογισμικού που τελικά οδήγησε στους πρώτους επιτυχημένους εμπορικά επιτραπέζιους υπολογιστές'
+    caption: "Περιγραφή της Ada για το πως θα μπορούσε να προγραμματιστεί η Αναλυτική Μηχανή του Babbage για τον υπολογισμό των αριθμών Bernoulli"
+  - image_url: /images/portrait.jpg
+    caption: 'Η συνεργασία της Ada με τον Charles Babbage ήταν στενή και οι βιογράφοι συζητούν την έκταση και την πρωτοτυπία της συμβολής της στο έργο του'
 ---
 
 {% include_relative bio-lovelace.md %}
